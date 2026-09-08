@@ -5,3 +5,7 @@
 *.log 
 *.back
 indicaciones.info
+node_modules/
+dist/
+coverage/
+npm-debug.log*
